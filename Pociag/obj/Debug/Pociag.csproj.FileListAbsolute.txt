@@ -1,0 +1,56 @@
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\bin\Debug\Pociag.exe.config
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\bin\Debug\Pociag.exe
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\bin\Debug\Pociag.pdb
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.csprojResolveAssemblyReference.cache
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\MainWindow.g.cs
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\App.g.cs
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag_MarkupCompile.cache
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag_MarkupCompile.lref
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\MainWindow.baml
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.g.resources
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.Properties.Resources.resources
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.csproj.GenerateResource.Cache
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.exe
+c:\users\zoxico\documents\visual studio 2017\Projects\Pociag\Pociag\obj\Debug\Pociag.pdb
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\bin\Debug\Pociag.exe.config
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag.exe
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag.pdb
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\bin\Debug\Pociag.exe
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\bin\Debug\Pociag.pdb
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.cache
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.lref
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag.g.resources
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag.Properties.Resources.resources
+C:\Users\Damian\Desktop\Pociag(1)\Pociag\obj\Debug\Pociag.csproj.GenerateResource.Cache
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.exe.config
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.exe
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.pdb
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.csprojResolveAssemblyReference.cache
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\MainWindow.g.cs
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\App.g.cs
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.cache
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.lref
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\MainWindow.baml
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.g.resources
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.Properties.Resources.resources
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.csproj.GenerateResource.Cache
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.exe
+C:\Users\Zoxico\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.pdb
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.exe.config
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.exe
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\bin\Debug\Pociag.pdb
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.csprojResolveAssemblyReference.cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\MainWindow.g.cs
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\App.g.cs
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag_MarkupCompile.lref
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\MainWindow.baml
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.g.resources
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.Properties.Resources.resources
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.csproj.GenerateResource.Cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.csproj.CoreCompileInputs.cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.exe
+F:\z laptopa\Documents\Visual Studio 2017\Projects\Pociag(1)\Pociag\obj\Debug\Pociag.pdb
